@@ -1,0 +1,26 @@
+#red{
+    color: red
+    ;
+}
+.hara{
+color: green;
+}
+.yellow{
+    color: yellow;
+}
+.blue{
+    color: blue;
+}
+.orange{
+    color: orange;
+}
+*{
+background-color: black;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+h1,h2{
+    color: white;
+}
